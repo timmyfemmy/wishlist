@@ -16,7 +16,7 @@
         <column_label>Text field</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>default</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
