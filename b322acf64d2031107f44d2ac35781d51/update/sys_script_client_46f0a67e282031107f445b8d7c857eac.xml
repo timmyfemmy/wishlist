@@ -15,6 +15,9 @@
 	//No line of code yet.
    //Adding the first line of code
    alert("Hello, Git experts");
+   alert("Hello, World!");
+   
+
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>fred.luddy</sys_created_by>
