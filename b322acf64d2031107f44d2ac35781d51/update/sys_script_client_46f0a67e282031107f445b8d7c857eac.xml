@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Description</description>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Manipulate UI interface</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	//No line of code yet.
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2023-08-13 05:36:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46f0a67e282031107f445b8d7c857eac</sys_id>
+        <sys_name>Manipulate UI interface</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">b322acf64d2031107f44d2ac35781d51</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">b322acf64d2031107f44d2ac35781d51</sys_scope>
+        <sys_update_name>sys_script_client_46f0a67e282031107f445b8d7c857eac</sys_update_name>
+        <table>x_snc_wishlist_wish_item</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>
