@@ -11,12 +11,12 @@
         <name>Manipulate UI interface</name>
         <order/>
         <script><![CDATA[function onLoad() {
+
    //Type appropriate comment here, and begin script below
 	//No line of code yet.
    //Adding the first line of code
-   g_form.addInfoMessage("Hello, I am broadcasting live from Fred Luddy's branch.");
+   g_form.addInfoMessage("Hello, I am broadcasting live from main branch with both messages.");
    
-
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>fred.luddy</sys_created_by>
