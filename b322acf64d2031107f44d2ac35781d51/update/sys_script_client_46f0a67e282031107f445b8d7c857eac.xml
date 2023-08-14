@@ -11,7 +11,7 @@
         <name>Manipulate UI interface</name>
         <order/>
         <script><![CDATA[function onLoad() {
-   g_form.addInfoMessage("Hello, I am the System Administrator")
+   g_form.addInfoMessage("Hello, I am broadcasting live from main branch.");
 
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
