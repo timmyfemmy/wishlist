@@ -11,12 +11,7 @@
         <name>Manipulate UI interface</name>
         <order/>
         <script><![CDATA[function onLoad() {
-   //Type appropriate comment here, and begin script below
-	//No line of code yet.
-   //Adding the first line of code
-   alert("Hello, Git experts");
-   alert("Hello, World!");
-   
+   g_form.addInfoMessage("Hello, I am the System Administrator")
 
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
