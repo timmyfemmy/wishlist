@@ -14,7 +14,7 @@
    //Type appropriate comment here, and begin script below
 	//No line of code yet.
    //Adding the first line of code
-   g_form.addInfoMessage("Hello, I am fred Luddy.");
+   g_form.addInfoMessage("Hello, I am broadcasting live from Fred Luddy's branch.");
    
 
 }]]></script>
